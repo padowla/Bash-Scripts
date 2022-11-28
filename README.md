@@ -1,2 +1,2 @@
 # Bash-Scripts
-Some usefult bash scripts
+Some usefult bash scripts from day-by-day problems
